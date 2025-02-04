@@ -20,8 +20,8 @@ This project provides a Node.js Express server that integrates with Google's Gen
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/bhavinslnki/geminiai-node-api.git
-   cd geminiai-node-api
+   git clone https://github.com/bhavinslnki/gemini-ai-node-api.git
+   cd gemini-ai-node-api
    ```
 
 2. Install dependencies:
